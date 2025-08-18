@@ -5,7 +5,8 @@
 
 
 
-// Sorting 2 array without adding 3rd array  and merging it 
+// Sorting 2 array without adding 3rd array  and merging it
+import java.util.*;
 import java.util.Arrays;
 public class SortArray {
     public static void Merging(int arr1[], int arr2[]) {
